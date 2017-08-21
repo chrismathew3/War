@@ -1,2 +1,2 @@
 # War
-War App
+War Game App: built on XCode using Swift
